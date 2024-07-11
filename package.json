@@ -1,4 +1,5 @@
 {
+  "author": "Shivaraj Shetty",
   "name": "fcc",
   "version": "1.0.0",
   "description": "\"# fcc-backend\"",
@@ -10,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Shivaraj2003/fcc-backend.git"
   },
-  "author": "Shivaraj Shetty",
+  
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Shivaraj2003/fcc-backend/issues"
