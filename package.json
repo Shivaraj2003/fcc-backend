@@ -5,16 +5,19 @@
   "description": "\"# fcc-backend\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Shivaraj2003/fcc-backend.git"
   },
-  
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Shivaraj2003/fcc-backend/issues"
   },
-  "homepage": "https://github.com/Shivaraj2003/fcc-backend#readme"
+  "homepage": "https://github.com/Shivaraj2003/fcc-backend#readme",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
